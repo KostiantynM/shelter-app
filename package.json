@@ -1,7 +1,7 @@
 {
   "name": "shelter-animals-db",
   "version": "0.0.1",
-  "description": "shelter animals registration system",
+  "description": "Shelter animals registration system",
   "author": "Kostiantyn Manko, Dadia Manko, Illia Manko",
   "private": true,
   "scripts": {
